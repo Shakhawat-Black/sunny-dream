@@ -1,0 +1,61 @@
+body{
+    font-family: 'Encode Sans SC', sans-serif;
+}
+.top{
+    display: flex;
+    text-align: center;
+    padding-bottom: 60px;
+    box-shadow: 4px 4px 5px 5px gray;
+    border-radius: 20px;
+}
+.thirty{
+    width: 30%;
+    margin-top: 3%;
+    margin-left: 2%;
+    margin-right: 3%;
+    padding-left: 10px;
+    padding-right: 8px;
+    border-radius: 15px 20px;
+    box-shadow: 7px 6px 8px 7px blue;
+}
+.thirty:hover{
+    background-color: tomato;
+    color: indigo;
+}
+.forty{
+    width: 40%;
+    margin-top: 2%;
+    padding: 10px 12px;
+    border-radius: 20px 18px;
+    box-shadow: 7px 6px 8px 7px red;
+}
+.forty:hover{
+    background-color: rgb(19, 19, 19);
+    color: goldenrod;
+    font-size: large;
+}
+.body{
+    display: flex;
+    text-align: center;
+    margin-top: 2%;
+    padding-bottom: 60px;
+    box-shadow: 4px 4px 5px 5px gray;
+    border-radius: 20px;
+}
+.fifty{
+    width: 60%;
+}
+.fifty img{
+    width: 60%;
+}
+.fifty:hover{
+    margin-top: 1%;
+    background-image: url(image/momen-sunny.jpeg);
+    width: 80%;
+    background-repeat: no-repeat;
+    padding-left: 60px;
+}
+.twenty{
+    width: 25%;
+    margin-top: 3%;
+}
